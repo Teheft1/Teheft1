@@ -21,17 +21,17 @@ Here are some of the technologies and tools I work with:
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Git, Docker, VS Code, Postman
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
-![Teheft1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teheft1&show_icons=true&theme=radical)
+![Teheft1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teheft1&show_icons=true&theme=radical) -->
 
 ## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teheft1&layout=compact&theme=radical)
 
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph
 
-![Teheft1's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Teheft1&theme=rogue)
+![Teheft1's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Teheft1&theme=rogue)-->
 
 ## 📫 Connect with Me
 
