@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Teheft1!
+# Hi there 👋, I'm Yunus!
 
 Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects. Here's a little bit about me:
 
